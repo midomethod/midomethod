@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @midomethod
+- 👀 I’m interested in Robotics/R&D/everything python
+- 🌱 I’m currently learning ML/AI
+- 💞️ I’m looking to collaborate on big ideas
+- 📫 You can reach me at https://www.linkedin.com/in/midori-kanuma-20b07320a/
